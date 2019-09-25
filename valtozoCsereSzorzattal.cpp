@@ -13,7 +13,7 @@ int main(){
 	
 	cout<<"Megcserelt ertekek: \n";
 	cout<<"a: "<<a<<" b: "<<b;
-	
+	return 0;
 	
 	
 }
