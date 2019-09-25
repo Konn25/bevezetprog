@@ -47,5 +47,6 @@ int main(){
 	cin>>your_name;
 	cout<<"\n\n";
 	cout<<your_name;
-
+	
+	return 0;
 }
